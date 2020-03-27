@@ -1,0 +1,14 @@
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\bin\Debug\netcoreapp2.1\ModuleOne.deps.json
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\bin\Debug\netcoreapp2.1\ModuleOne.runtimeconfig.json
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\bin\Debug\netcoreapp2.1\ModuleOne.runtimeconfig.dev.json
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\bin\Debug\netcoreapp2.1\ModuleOne.dll
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\bin\Debug\netcoreapp2.1\ModuleOne.pdb
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.csprojAssemblyReference.cache
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.csproj.CoreCompileInputs.cache
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.RazorAssemblyInfo.cache
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.RazorAssemblyInfo.cs
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.AssemblyInfoInputs.cache
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.AssemblyInfo.cs
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.RazorTargetAssemblyInfo.cache
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.dll
+C:\Users\eBayo\Documents\Visual Studio 2017\Projects\ModuleOne\ModuleOne\obj\Debug\netcoreapp2.1\ModuleOne.pdb
